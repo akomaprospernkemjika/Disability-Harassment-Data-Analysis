@@ -51,7 +51,7 @@ of disability across all 50 U.S. states, the District of Columbia, and Puerto Ri
 ## 🛠️ Tools Used
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=for-the-badge)
+
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7931E?style=for-the-badge)
 
 ---
