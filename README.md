@@ -73,4 +73,5 @@ U.S. Department of Education, Office for Civil Rights
 
 ---
 - June 18 2025: Reviewed numerical reasoning
+- Practiced Pull Shark badge workflow on GitHub
 *Project by [Prosper Akoma](https://github.com/akomaprospernkemjika)*
